@@ -1,0 +1,25 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id="bL;]5`4xxJ;V{c%j1(@U" x="218" y="163"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="controls_repeat_ext" id="twva9[F}}_:;h59zo7Hp"><value name="TIMES"><shadow type="math_whole_number" id="D`wfZ4WDVKTQgJaHMJNF"><field name="NUM">4</field></shadow></value><statement name="DO"><block type="device_show_leds" id="qz!A;m7J)bcZtoCu,d!e"><field name="LEDS">`
+        . . # . . 
+        . # . . . 
+        # # # # # 
+        . # . . . 
+        . . # . .
+        `</field><next><block type="device_pause" id="7c4?v~T4|W=X*h+y2lAT"><value name="pause"><shadow type="timePicker" id="A`q*%mh{5#=sY.X?.yI8"><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id="bZznqMw6#Md|fA0GOXlS"><field name="LEDS">`
+        . . # . . 
+        . . . # . 
+        # # # # # 
+        . . . # . 
+        . . # . .
+        `</field><next><block type="device_pause" id=".Yg;rV8kh7FZ;/F9#k3X"><value name="pause"><shadow type="timePicker" id="jqqN^L;KmjOlD8@3Qnub"><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id="w*v9?:alwab$#xjR-9Ei"><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        # . # . # 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="device_pause" id="UcO0uTxazeB-*y[7=^rh"><value name="pause"><shadow type="timePicker" id="w5uz,:0jfRs0A[$_cUJb"><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id="HNXj%5L6G_^-RLu7u(*m"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        # . # . # 
+        . # # # . 
+        . . # . .
+        `</field><next><block type="device_pause" id="?r`VJ;LsSo]X)=q~4!hj"><value name="pause"><shadow type="timePicker" id="+v[Ri#N}7F4mc!5![9-H"><field name="ms">1000</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></statement></block></xml>
